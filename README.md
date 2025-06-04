@@ -45,7 +45,7 @@ MY-TIC-TAC-TOE-MASTER/
 ---
 
 ## 📸 Screenshot
-![Game Screenshot](./your-screenshot.png)
+![Game Screenshot](ss.jpeg)
 
 ---
 
